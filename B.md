@@ -1,5 +1,7 @@
 # Clicky Clicky Part B
 [DuckDuckGo](https://duckduckgo.com)
+[yahoo!](https://yahoo.com)
+[UwU](https://anura.pro)
 [ByPassi](https://bypassi.com)
 [Proxy](https://buypass-poc.netlify.app)
 [ext-remover](https://ext-remover.net)
